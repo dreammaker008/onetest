@@ -1,0 +1,16 @@
+{
+    "name": "jason/onetest",
+    "description": "The first project on github.",
+    "keywords": ["test", "test"],
+    "license": "jason",
+    "type": "project",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "authors": [
+        {
+            "name": "dreammaker008",
+            "email": "chxzh11420@163.com"
+        }
+    ]
+}
