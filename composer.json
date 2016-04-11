@@ -3,6 +3,7 @@
     "description": "The first project on github.",
     "keywords": ["test", "test"],
     "type": "project",
+    "license":"MIT",
     "require": {
         "php": ">=5.5.9"
     },
